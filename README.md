@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonahwinninghoff
-- 👀 I’m interested in: causal inferences, ecology, and natural language processing.
+- 👀 I’m interested in: causal inference, ecology, and natural language processing.
 - 🌱 I’m currently employed: National Deaf Center data analyst
 - 📫 How to reach me: Email - jonah.winninghoff@gmail.com and Phone # - 478-200-8116
 
