@@ -5,6 +5,12 @@
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+
 <table>
   <tr>
     <td>
