@@ -4,8 +4,6 @@
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 
-<br />
-
 ### **languages and tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -26,6 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
 </a>
 
+<br />
 <br />
 
 <p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/" style="margin: 0px; padding: 0px; display:block;"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
