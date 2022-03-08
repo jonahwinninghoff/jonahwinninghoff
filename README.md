@@ -1,4 +1,4 @@
-# Hi 👋 , I’m Jonah
+# Hi 👋 , I’m Jonah {style=text-align:center}
 
 
 - 👀 I’m interested in: causal inference, ecology, and natural language processing.
