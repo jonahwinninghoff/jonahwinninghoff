@@ -4,14 +4,11 @@
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language' height = '200px'/>
-<img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade' height = '200px'/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+- 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '200px'/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '200px'/>
 </a>
 
