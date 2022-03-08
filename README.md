@@ -5,9 +5,7 @@
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact)](https://github.com/jonahwinninghoff/github-readme-stats) | <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade'/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact)](https://github.com/jonahwinninghoff/github-readme-stats) <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade'/>
 
 <!---
 jonahwinninghoff/jonahwinninghoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
