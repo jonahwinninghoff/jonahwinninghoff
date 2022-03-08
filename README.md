@@ -21,6 +21,8 @@
 <code><img height='40' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'></code>
 <code><img height='40' src='https://raw.githubusercontent.com/github/explore/6f5025830918df26b37d23b3ffffbc35725fe15f/topics/spark/spark.png'></code>
 <code><img height='40' src='https://avatars.githubusercontent.com/u/10017763?s=200&v=4'></code>
+
+<br />
 <br />
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
