@@ -1,7 +1,8 @@
 # <p align = 'center'> Hi 👋 , I’m Jonah </p>
 
-
-- 👀 I’m interested in: causal inference, ecology, and natural language processing.
+- 👨‍💼 I'm data analyst at **[NDC]**(https://www.nationaldeafcenter.org/).
+- 📊 I'm currently working on NDC Dashboard website.
+- 💬
 - 🌱 I’m currently employed: National Deaf Center data analyst
 - 📫 How to reach me: Email - jonah.winninghoff@gmail.com and Phone # - 478-200-8116
 
