@@ -10,13 +10,6 @@
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
 <br />
- 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
-</a>
 
 ### **languages and tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
@@ -26,6 +19,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height='40' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'></code>
 
+<br />
+ 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
+</a>
 
 <!---
 jonahwinninghoff/jonahwinninghoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
