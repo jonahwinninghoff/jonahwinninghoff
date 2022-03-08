@@ -2,7 +2,7 @@
 
 - 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on **NDC Dashboard website**.
-- 💬 Ask me about **Data Science / Economics / R / Python / SQL / JavaScript (React JS)**
+- 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
 <!---
