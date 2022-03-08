@@ -6,7 +6,7 @@
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact)](https://github.com/jonahwinninghoff/github-readme-stats)
 <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade'/>
 
 <!---
