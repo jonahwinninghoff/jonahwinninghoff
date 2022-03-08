@@ -7,10 +7,10 @@
 <table border = 'none'>
   <tr>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language' height = '100%'/>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language' height = '200px'/>
     </td>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade' height = '100%'/>
+      <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade' height = '200px'/>
     </td>
   </tr>
 </table>
