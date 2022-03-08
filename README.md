@@ -5,7 +5,7 @@
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language'/> <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language' height = '100px'/> <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade' height = '100px'/>
 
 <!---
 jonahwinninghoff/jonahwinninghoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
