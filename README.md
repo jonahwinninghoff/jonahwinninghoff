@@ -2,14 +2,14 @@
 
 <a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br/>
+</a><br/><br />
 
 - 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
 
-<br /><br />
+<br />
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
