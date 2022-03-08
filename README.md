@@ -7,7 +7,7 @@
 - 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
-- <p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
+- <p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/" margin = 0><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
 
 <br />
 
