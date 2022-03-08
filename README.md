@@ -1,4 +1,4 @@
-# Hi 👋 , I’m Jonah {style=text-align:center}
+# <p align = 'center'> Hi 👋 , I’m Jonah </p>
 
 
 - 👀 I’m interested in: causal inference, ecology, and natural language processing.
