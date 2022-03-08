@@ -1,6 +1,6 @@
 # <p align = 'center'> Hi 👋 , I’m Jonah </p>
 
-- 👨‍💼 I'm data analyst at **[NDC]**(https://www.nationaldeafcenter.org/).
+- 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on NDC Dashboard website.
 - 💬
 - 🌱 I’m currently employed: National Deaf Center data analyst
