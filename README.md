@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
