@@ -7,7 +7,7 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=jonahwinninghoff
+<img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade'/>
 
 <!---
 jonahwinninghoff/jonahwinninghoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
