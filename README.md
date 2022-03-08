@@ -1,9 +1,5 @@
 # <p align = 'center'> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I’m Jonah </p>
 
-<a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br/><br />
-
 - 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
@@ -29,6 +25,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
 </a>
+
+<br />
 
 <p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/" style="margin: 0px; padding: 0px; display:block;"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
 
