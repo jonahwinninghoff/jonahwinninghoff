@@ -1,5 +1,5 @@
 # Hi 👋 , I’m Jonah
-| ----|
+
 
 - 👀 I’m interested in: causal inference, ecology, and natural language processing.
 - 🌱 I’m currently employed: National Deaf Center data analyst
