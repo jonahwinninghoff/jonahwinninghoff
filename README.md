@@ -23,7 +23,6 @@
 <code><img height='40' src='https://avatars.githubusercontent.com/u/10017763?s=200&v=4'></code>
 
 <br />
-<br />
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
