@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br/>
 
 - 👨‍💼 I'm data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 📊 I'm currently working on **NDC Dashboard website**.
