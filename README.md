@@ -4,12 +4,19 @@
 - 📊 I'm currently working on **NDC Dashboard website**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 - 📫 How to reach me: Email - **jonah.winninghoff@gmail.com** and Phone # - **478-200-8116**
-<table border = 'none'>
-  <tr border = 'none'>
-    <td border = 'none'>
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<table>
+  <tr>
+    <td>
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact' alt = 'jonahwinninghoff_top_language' height = '200px'/>
     </td>
-    <td border = 'none'>
+    <td>
       <img src='https://github-readme-stats.vercel.app/api?username=jonahwinninghoff' alt = 'jonahwinninghoff_grade' height = '200px'/>
     </td>
   </tr>
