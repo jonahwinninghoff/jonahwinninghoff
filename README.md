@@ -26,10 +26,5 @@
 <br />
 <br />
 
-<p><a href="https://www.linkedin.com/in/jonah-winninghoff/" style="margin: 0px; padding: 0px; display:block;"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
+<p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/" style="margin: 0px; padding: 0px; display:block;"><img align="left" alt="Jonah's LinkedIN" width="22px" /></a>How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
 
-
-<!---
-jonahwinninghoff/jonahwinninghoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
