@@ -26,5 +26,5 @@
 <br />
 <br />
 
-<p><a href="https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/" style="margin: 0px; padding: 0px; display:block;"><img align="left" alt="Jonah's LinkedIN" width="22px" /></a>How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
+How to reach me: <b>Email: jonah.winninghoff@gmail.com</b> and <b> Phone: 478-200-8116</b></p>
 
