@@ -1,9 +1,9 @@
-# <p align = 'center'> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I’m Jonah </p>
+# <p align = 'center'> 👋🏻 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I’m Jonah </p>
 
-- 👨‍💼 I'm associate data analyst at **[Gallaudet University](https://gallaudet.edu/)** and data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
+- 👨🏼‍💼 I'm associate data analyst at **[Gallaudet University](https://gallaudet.edu/)** and data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
 
-### **languages and tools:**  
+### **Languages and tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
