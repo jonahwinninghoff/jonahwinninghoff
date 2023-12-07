@@ -2,7 +2,7 @@
 
 <h1>Welcome to my Profile Page!</h1>
 
-- 🧏🏻 My name is Jonah Winninghoff, a Deaf data scientist using ASL and living in Tacoma, Washington.
+- 🧏🏻 I'm Jonah Winninghoff, a Deaf data scientist using ASL and living in Tacoma, Washington.
 - 🧑🏻‍💼 I'm associate data analyst at **[Gallaudet University](https://gallaudet.edu/)** and data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 
 -----
