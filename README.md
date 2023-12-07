@@ -1,4 +1,4 @@
-# <p align = 'center'> 👋🏻 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I’m Jonah </p>
+![Banner of Jonah Winninghoff | Full-Stack Data Scientist](banner.png)
 
 - 👨🏼‍💼 I'm associate data analyst at **[Gallaudet University](https://gallaudet.edu/)** and data analyst at **[NDC](https://www.nationaldeafcenter.org/)**.
 - 💬 Ask me about **Data Science / Econometrics / R / Python / SQL / JavaScript (React JS)**
