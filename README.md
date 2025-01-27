@@ -1,5 +1,3 @@
-![Banner of Jonah Winninghoff | Full-Stack Data Scientist](banner.png)
-
 <h1>Welcome to my Profile Page!</h1>
 
 - 🧏🏻 I'm Jonah Winninghoff, a Deaf data scientist using ASL and living in Tacoma, Washington.
