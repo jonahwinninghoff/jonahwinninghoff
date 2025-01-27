@@ -8,6 +8,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-d?style=for-the-badge&logo=github&logoColor=ffffff&color=000000">
   </picture>
 </a>
+<a href="https://jwtechdata.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-d?style=for-the-badge&color=ffffff&labelColor=4A55A9">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Portfolio-d?style=for-the-badge&color=4A55A9&labelColor=ffffff">
+  </picture>
+</a>
+
 
 -----
 
