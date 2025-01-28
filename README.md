@@ -20,13 +20,13 @@
 
 -----
 
-<h1>GitHub Summary</h1>
+<h1>My Public GitHub Contributions</h1>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact&count_private=true" height="170px"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff&count_private=true" height = '170px'/>
 </a>
 
 -----
