@@ -15,6 +15,19 @@
   </picture>
 </a>
 
+<p style="text-align:justify">I'm passionate about creating impactful data-driven solutions, scalable applications, and innovative AI/ML models. With 3+
+ years of experience in qualitative and quantitative analysis, full-stack development, and machine learning, I bring expertise in solving complex challenges and delivering measurable results.</p>
+
+-----
+
+<h1>GitHub Summary</h1>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
+</a>
 
 -----
 
@@ -69,25 +82,8 @@
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-path?style=for-the-badge&logo=LaTeX&logoColor=white&color=%23008080" />
   </p>
 </p>
- 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact" height = '170px'/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahwinninghoff" height = '170px'/>
-</a>
 
 ----
-
-<h3>How to Reach Me:</h3>
-<p>
-  <a href='https://www.github.com/jonahwinninghoff' target="_blank">
-    <img alt='GitHub Profile' src='https://img.shields.io/badge/GitHub-path?style=for-the-badge&logo=GitHub&logoColor=white&color=%23181717'/>
-  </a>
-  <a href='https://www.linkedin.com/in/jonah-winninghoff-2b9b167b/' target="_blank">
-    <img alt='LinkedIn Profile' src='https://img.shields.io/badge/LinkedIn-path?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fgithub.com%2Fjonahwinninghoff'/>
-  </a>
-</p>
 
 
 
