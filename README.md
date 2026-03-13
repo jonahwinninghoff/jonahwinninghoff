@@ -38,24 +38,28 @@
   <h4>Data Science</h4>
   <p>
     <img alt="R" src = 'https://img.shields.io/badge/R-path?style=for-the-badge&logo=R&logoColor=white&color=%23276DC3' />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-path?style=for-the-badge&logo=PyTorch&logoColor=white&color=%23512BD4" />  
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
   </p>
   
-  <h4>Web Development</h4>
+  <h4>Web & Application Development</h4>
   <p>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=000000&color=%2361DAFB" /> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-path?style=for-the-badge&logo=JavaScript&logoColor=black&color=%23F7DF1E" /> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-path?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6" /> 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
     <img alt=".NET" src='https://img.shields.io/badge/.NET-path?style=for-the-badge&logo=.NET&logoColor=white&color=%23512BD4'/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-path?style=for-the-badge&logo=rust&logoColor=white&color=%23000000" />
     <img alt='Docker' src='https://img.shields.io/badge/Docker-path?style=for-the-badge&logo=Docker&logoColor=white&color=%232496ED' />
     <img alt='GitHub Actions' src='https://img.shields.io/badge/GitHub%20Actions-path?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=%232088FF' />
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-path?style=for-the-badge&logo=swift&logoColor=white&color=%23F05138" />
   </p>
   
   <h4>Databases</h4>
   <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1" /> 
     <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-path?style=for-the-badge&logo=Amazon%20S3&logoColor=white&color=%23569A31" /> 
   </p>
   
