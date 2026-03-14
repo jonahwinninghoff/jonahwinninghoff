@@ -15,8 +15,8 @@
   </picture>
 </a>
 
-<p style="text-align:justify">I'm passionate about creating impactful data-driven solutions, scalable applications, and innovative AI/ML models. With 3+
- years of experience in qualitative and quantitative analysis, full-stack development, and machine learning, I bring expertise in solving complex challenges and delivering measurable results.</p>
+<p style="text-align:justify">I'm passionate about creating impactful data-driven solutions, scalable applications, and innovative AI/ML models. With 5+
+ years of experience in data science and full-stack development, I bring expertise in solving complex challenges and delivering measurable results.</p>
 
 -----
 
