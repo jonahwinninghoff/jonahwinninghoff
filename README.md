@@ -20,13 +20,10 @@
 
 -----
 
-<h1>My Public GitHub Contributions</h1>
+<h1>GitHub Activity Snapshot</h1>
 
-<a href="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact&count_private=true">
-  <img align="center" src="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api/top-langs/?username=jonahwinninghoff&layout=compact&count_private=true" height="170px"/>
-</a>
-<a href="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api?username=jonahwinninghoff&count_private=true">
-  <img align="center" src="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api?username=jonahwinninghoff&count_private=true" height="170px"/>
+<a href="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api?username=jonahwinninghoff&count_private=true&include_all_commits=true&v=1">
+  <img align="center" src="https://github-readme-stats-8quivljxc-jonahwinninghoffs-projects.vercel.app/api?username=jonahwinninghoff&count_private=true&include_all_commits=true&v=1" height="170px"/>
 </a>
 
 -----
